@@ -1,0 +1,100 @@
+#background {
+    background-color:#F2D7C5;
+}
+#title {
+    text-align:center;
+    font-size:72px;
+    padding-bottom:0%;
+    margin-bottom:10px;
+    color:#4F4F4B;
+}
+#author {
+    color:#4F4F4B;
+    text-align:center;
+    font-size:12px;
+}
+#inspo {
+    text-align:center;
+    color:#4F4F4B;
+    font-size:10px;
+}
+#nextButton {
+    width: 48px;
+    right: 18px;
+    height: 48px;
+    bottom: 18px;
+    position: fixed;
+    cursor: pointer;
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;
+    display: inline-block;
+}
+#backButton {
+    width: 48px;
+    left: 18px;
+    height: 48px;
+    bottom: 18px;
+    position: fixed;
+    cursor: pointer;
+    overflow: hidden;
+    text-indent: 100%;
+    white-space: nowrap;
+    display: inline-block;
+}
+hr {
+    width:56%;
+}
+p {
+    font-size:30px;
+    text-align:center;
+    color:#4F4F4B;
+    margin-left:15%;
+    margin-right:15%;
+    padding:0 0 0 0;
+    
+}
+h2{
+    font-size:45px;
+    text-align:center;
+    color:#4F4F4B;
+    margin-left:15%;
+    margin-right:15%;
+    padding:0 0 0 0;
+}
+#firstImage {
+    height:240px;
+    width:180px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#secondImage {
+    height:200px;
+    width:200px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#thirdImage {
+    height:200px;
+    width:280px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+#fourthImage {
+    height:150px;
+    width:300px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+.src {
+    font-size:10px;
+    text-align:center;
+    color:#4F4F4B;
+    margin-left:15%;
+    margin-right:15%;
+    padding:0 0 0 0;
+}
